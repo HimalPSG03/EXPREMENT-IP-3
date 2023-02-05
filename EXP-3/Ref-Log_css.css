@@ -1,0 +1,30 @@
+
+form{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    border-width: 2px;
+}
+label{
+    width: 180px;
+    display: inline-block;
+    padding: 5px;
+    background-color: gray;
+}
+input{
+    text-align: center;
+    color: green;
+}
+h1{
+    font-family:'Montserrat Alternates', sans-serif;
+}
+body{
+    margin: 0;
+    background-image: linear-gradient(to right, #D9AFD9 0%, #97D9E1 100%);
+}
+p{
+    text-align: center;font-weight: bold;
+}
